@@ -73,5 +73,5 @@ start_client()
 ## Client:
 ![client 2](https://github.com/SUBBIAH1904/3b_CHAT_USING_TCP_SOCKETS/assets/147473604/e7e6b228-4b03-4cb3-89a7-a4254be93126)
 ## RESULT
-Thus, the python program for creating Chat using TCP Sockets Links was successfully 
+Thus, the python program for creating Chat using TCP Sockets Links was successfully
 created and executed.
